@@ -15,10 +15,12 @@ HAVING CLAUSE, INSERT, UPDATE, ALTER, IMPORT, Data types.
     # Advance Queries: Date time function, Window function, Sub query, Case statement, CTE, 
 query optimisation.
     #  JOINS: Inner, Outer, Left, Right. 
+    # Analyzing Traffic Source, Website Performance ,Channel Portfolio Management , Business Patterns & Seasonality, Product & User Analysis.
   
 
 ### Types of Reports in Domains
 1. Movies.
+2. E-Commerce
 
 ### What is Required?
 - Setting up MySQL Workbench on Windows / Mac.
