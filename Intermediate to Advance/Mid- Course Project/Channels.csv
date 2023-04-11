@@ -1,0 +1,8 @@
+utm_source,utm_campaign,http_referer
+gsearch,nonbrand,https://www.gsearch.com
+NULL,NULL,NULL
+gsearch,brand,https://www.gsearch.com
+NULL,NULL,https://www.gsearch.com
+bsearch,brand,https://www.bsearch.com
+NULL,NULL,https://www.bsearch.com
+bsearch,nonbrand,https://www.bsearch.com

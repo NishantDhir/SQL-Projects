@@ -1,0 +1,7 @@
+utm_source,utm_campaign,http_referer,total_sessions
+NULL,NULL,NULL,28
+NULL,NULL,https://www.bsearch.com,7
+NULL,NULL,https://www.gsearch.com,27
+bsearch,brand,https://www.bsearch.com,7
+gsearch,brand,https://www.gsearch.com,26
+gsearch,nonbrand,https://www.gsearch.com,3613

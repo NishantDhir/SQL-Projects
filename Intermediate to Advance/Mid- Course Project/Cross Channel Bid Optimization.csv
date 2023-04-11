@@ -1,0 +1,5 @@
+device_type,utm_source,sessions,orders,con_rate
+desktop,bsearch,1118,43,26.0000
+desktop,gsearch,2850,130,21.9231
+mobile,bsearch,125,1,125.0000
+mobile,gsearch,962,11,87.4545
