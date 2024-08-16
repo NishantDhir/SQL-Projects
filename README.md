@@ -22,6 +22,7 @@ query optimization.
 1. Movies
 2. E-Commerce
 3. Automobile
+4. Restaurant Analysis
 
 ### What is Required?
 - Setting up MySQL Workbench on Windows / Mac.
